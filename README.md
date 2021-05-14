@@ -1,5 +1,5 @@
 
-![Header](astrid-header.png "Header")
+![Header](header.png "Header")
 
 <h4 align="center">Hey, there! Welcome to my gitHub!</h4>
 
