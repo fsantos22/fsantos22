@@ -3,38 +3,45 @@
 
 <h4 align="center">Hey, there! Welcome to my gitHub!</h4>
 
-<p align="justify">     I'm Fabio, chemical engineer graduated from UFRJ. Passionate about technology and naturally curious. Determined, I always seek new knowledge, constantly evolving. My adaptability has already allowed me to work in several sectors such as environmental, pharmaceutical, retail, financial and events, gaining not only experience but also friends and good experiences. Today I dedicate myself to development in programming, my passion since always. The accumulated baggage gave me the necessary tools to achieve success in this journey that enchants me every day!.</p>
+<h2>Hello! 🙏🏻, I'm Fabio dos Santos! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<p><em>Software developer</em></p>
 
-<h4 align="center">Tech Stack</h4>
- 
-<p align="center"> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</p>
- 
-<p align="center"> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
- 
-<p align="center"> 
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-</p>
+[![Linkedin: 22fsantos](https://img.shields.io/badge/-22fsantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/22fsantos/)](https://www.linkedin.com/in/22fsantos/)
+![GitHub followers](https://img.shields.io/github/followers/fsantos22?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://portifolio-sigma-bice.vercel.app/)
 
-***
-<h4 align="center">Contacts:</h4>
-<p align="center">
-  <a href="https://www.linkedin.com/in/fsantos22/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="http://fabio-santos.surge.sh/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-%20-brightgreen?style=for-the-badge"/>
-  </a>
-  <a href="mailto:22fsantos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>                                                                                                   
-</p>
+### A little more about me...  
+
+```javascript
+const fsantos22 = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Styled Components", "Tailwind"],
+            uiLibraries: ["Material UI", "Shadcn UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "GitHub Actions"],
+        cloudServices: {
+            aws: ["EC2", "S3", "Lambda", "CloudWatch", "RDS", "SNS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Supabase"],
+        misc: ["REST APIs"],
+        generativeAI: ["GPT"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        databases: ["Relational", "NoSQL"],
+    },
+    currentFocus: "Improve tech skills",
+};
+```
 
 *** 
 <h4 align="center">GitHub trophies:</h4>
